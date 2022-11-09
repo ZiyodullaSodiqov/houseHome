@@ -58,7 +58,7 @@ const Uy = () => {
 
                 <div className="obyekt-item__card">
                     <h2>Uylar</h2>
-                    <button onClick={openModal} ><p>+</p></button>
+                    <button id='btn-plus' onClick={openModal} ><p>+</p></button>
                 </div>
 
                 <div className="obyect-item-content">
